@@ -6,8 +6,13 @@ Projects demonstrating skill and expertise in Data Science:  modeling prediction
 ### Multi Digit Recognition of Google Street View Housing Data 
 >Google, Big Data, Image Recognition, Python, Neural Networks, CNN, MNB, Decision Trees 
 
+><img src = "https://github.com/anilatif/DataScience/blob/master/images/SVHN/examples_new.png" width=500>
+><sub><sup>http://ufldl.stanford.edu/housenumbers/<sup><sub>
+
 ### Predicting Spotify Song Preference 
 >R, Visualization, Adobe Illustrator, Recursive Partitioning 
+
+><img src = "images/Spotify_song_pref/spotify_rec_part.png" width=500>
 
 ### Forecasting Ideal Zip Codes for Property Investment
 >Text mining, feature extraction/creation, Facebook's Prophet, Time Series, R, ggplot, Python
