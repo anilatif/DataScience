@@ -10,8 +10,7 @@ Projects demonstrating skill and expertise in Data Science:  modeling prediction
 ### Multi Digit Recognition of Google Street View Housing Data 
 *Google, Big Data, Image Recognition, Python, Neural Networks, CNN, MNB, Decision Trees*
 
-><img src = "https://github.com/anilatif/DataScience/blob/master/images/SVHN/examples_new.png" width=500>
-<sub><sup>http://ufldl.stanford.edu/housenumbers/<sup><sub>
+><img src = "https://github.com/anilatif/DataScience/blob/master/images/SVHN/examples_new.png" width=500><sub><sup>http://ufldl.stanford.edu/housenumbers/<sup><sub>
   
   
 
@@ -43,11 +42,11 @@ Projects demonstrating skill and expertise in Data Science:  modeling prediction
 ### Topic Modeling 
 *Latent Derichlet Allocation, document corpus*
 
-><img src="images/lda/lda.png"> <sup><sub>Topic Modeling of the CFPB Consumer Complaints (Bastani et al)<sub><sup>
+><img src="images/lda/lda.png"> <sup><sub>Topic Modeling of the CFPB Consumer Complaints (Bastani et al, 2018)<sub><sup>
 
 
 ### Predicting Genre from Song Lyrics (Spotify) 
-*classification: Naive Bayes, Support Vector Classification, Latent Dirichlet Classification*
+*Classification: Naive Bayes, Support Vector Classification, Latent Dirichlet Classification*
 
 ><img src="images/spotify_annot/spotify_annot.png">
 
