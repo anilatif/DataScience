@@ -3,15 +3,14 @@ Projects demonstrating skill and expertise in Data Science:  modeling prediction
 
 
 
-## Table of contents
-
+## Table of Contents
 
 
 ### Multi Digit Recognition of Google Street View Housing Data 
 *Google, Big Data, Image Recognition, Python, Neural Networks, CNN, MNB, Decision Trees*
 
 <img src = "https://github.com/anilatif/DataScience/blob/master/images/SVHN/examples_new.png" width=500>
-<sub><sup>http://ufldl.stanford.edu/housenumbers/<sup><sub>
+http://ufldl.stanford.edu/housenumbers/
   
  
 
